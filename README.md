@@ -1,2 +1,2 @@
-# esha-gupta.github.io
-Personal Website Repo
+# Esha Gupta
+Hi! Welcome to my website :) 
